@@ -31,3 +31,5 @@ jobs:
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
           IGNORED_LANGUAGES: YAML JSON TOML # optional
+          COMMITTER_NAME: "github-actions[bot]"
+          COMMITTER_EMAIL: "github-actions[bot]@users.noreply.github.com"
