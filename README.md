@@ -3,13 +3,13 @@ Currently focused on learning to develop browser extensions.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 April 2026 - To: 25 April 2026
+From: 04 April 2026 - To: 26 April 2026
 
 Total Time: 38 hrs 16 mins
 
 JavaScript   18 hrs 22 mins        ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░   47.71 %
 Markdown     12 hrs 7 mins         ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░   31.47 %
-CSS          5 hrs 39 mins         ▓▓▓▒░░░░░░░░░░░░░░░░░░░░░   14.69 %
+CSS          5 hrs 39 mins         ▓▓▓▒░░░░░░░░░░░░░░░░░░░░░   14.68 %
 Text         55 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 Git Config   15 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 Other        14 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
