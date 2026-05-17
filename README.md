@@ -3,7 +3,7 @@ Currently focused on learning to develop browser extensions.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 14 December 2025 - To: 16 May 2026
+From: 14 December 2025 - To: 17 May 2026
 
 Total Time: 79 hrs 1 min
 
