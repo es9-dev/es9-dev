@@ -3,17 +3,17 @@ Currently focused on learning to develop browser extensions.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 14 December 2025 - To: 27 May 2026
+From: 14 December 2025 - To: 28 May 2026
 
-Total Time: 129 hrs 19 mins
+Total Time: 131 hrs 59 mins
 
-Lua          51 hrs 25 mins        ▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░░   38.96 %
-JavaScript   18 hrs 27 mins        ▓▓▓▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
-Markdown     13 hrs 12 mins        ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-Text         9 hrs 48 mins         ▓▓░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-TypeScript   6 hrs 26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-CSS          6 hrs 1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-Other        2 hrs 39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Lua          54 hrs 4 mins         ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░   40.17 %
+JavaScript   18 hrs 27 mins        ▓▓▓▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
+Markdown     13 hrs 12 mins        ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+Text         9 hrs 48 mins         ▓▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+TypeScript   6 hrs 26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+CSS          6 hrs 1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Other        2 hrs 39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:waka-->
