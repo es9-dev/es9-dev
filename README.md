@@ -5,11 +5,11 @@ Currently focused on learning to develop browser extensions.
 ```rust
 From: 14 December 2025 - To: 28 May 2026
 
-Total Time: 131 hrs 59 mins
+Total Time: 132 hrs
 
-Lua          54 hrs 4 mins         ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░   40.17 %
-JavaScript   18 hrs 27 mins        ▓▓▓▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
-Markdown     13 hrs 12 mins        ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+Lua          54 hrs 6 mins         ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░   40.18 %
+JavaScript   18 hrs 27 mins        ▓▓▓▒░░░░░░░░░░░░░░░░░░░░░   13.70 %
+Markdown     13 hrs 12 mins        ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
 Text         9 hrs 48 mins         ▓▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
 TypeScript   6 hrs 26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
 CSS          6 hrs 1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
