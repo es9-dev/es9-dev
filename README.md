@@ -1,4 +1,4 @@
-Currently focused on learning to develop browser extensions.
+🥳
 
 <!--START_SECTION:waka-->
 
