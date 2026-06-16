@@ -1,5 +1,3 @@
-🥳
-
 <!--START_SECTION:waka-->
 
 ```rust
@@ -17,6 +15,8 @@ Other        3 hrs 38 mins         ▒░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+🥳
 
 <!--
 **es9-dev/es9-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
