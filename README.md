@@ -1,17 +1,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 14 December 2025 - To: 19 June 2026
+From: 14 December 2025 - To: 20 June 2026
 
-Total Time: 178 hrs 43 mins
+Total Time: 182 hrs 46 mins
 
-Lua          77 hrs 12 mins        ▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░   42.32 %
-Markdown     19 hrs 33 mins        ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   10.73 %
-JavaScript   18 hrs 27 mins        ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-Text         9 hrs 48 mins         ▓▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-CSS          8 hrs 21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-TypeScript   6 hrs 29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-Other        3 hrs 41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Lua          77 hrs 12 mins        ▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░   41.40 %
+Markdown     19 hrs 33 mins        ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+JavaScript   18 hrs 27 mins        ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+Text         9 hrs 48 mins         ▓▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+CSS          8 hrs 22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+TypeScript   6 hrs 29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+Astro        5 hrs 3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Other        3 hrs 41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 ```
 
 <!--END_SECTION:waka-->
