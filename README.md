@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 14 December 2025 - To: 31 August 2026
+From: 14 December 2025 - To: 01 September 2026
 
-Total Time: 584 hrs 55 mins
+Total Time: 597 hrs
 
-Lua                354 hrs 21 mins       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░   57.47 %
-Markdown           117 hrs 22 mins       ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░   19.04 %
-Other              31 hrs 42 mins        ▓▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+Lua                354 hrs 54 mins       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░   56.26 %
+Markdown           121 hrs 2 mins        ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░   19.19 %
+Other              33 hrs 47 mins        ▓▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
 ```
 
 <!--END_SECTION:waka-->
