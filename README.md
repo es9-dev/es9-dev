@@ -1,28 +1,40 @@
-<!--START_SECTION:waka-->
+<h2 align="center">es9</h2>
 
-```rust
-From: 14 December 2025 - To: 15 October 2026
+<div align="center">
+    <a href="https://github.com/es9-dev"><img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"></a>
+    <a href="https://discord.com/users/1326663307670720637"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord"></a>
+</div>
 
-Total Time: 725 hrs 32 mins
+<table align="center">
+<tr>
+    <td>
+        Architecting <b>Dew</b>, an engine for desktop customization built in <b>Rust</b> that provides a <b>Luau</b> runtime for developers.
+    </td>
+</tr>
+<tr>
+    <td>
+        Focus: simulations, graphics, UI frameworks, and desktop customization
+    </td>
+</tr>
+</table>
 
-Lua                362 hrs 17 mins       ▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░   45.97 %
-Markdown           167 hrs 24 mins       ▓▓▓▓▓▒░░░░░░░░░░░░░░░░░░░   21.24 %
-Other              62 hrs 30 mins        ▓▓░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-```
+<p align="center">
+<a href="https://wakatime.com/@es9">
+    <picture>
+    <source
+        srcset="https://github-readme-stats.vercel.app/api/wakatime?username=es9&show_icons=true&theme=github_light&hide_border=true&bg_color=00000000&layout=compact&langs_count=6"
+        media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=es9&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&layout=compact&langs_count=6" alt="Wakatime Stats">
+    </picture>
+</a>
+</p>
 
-<!--END_SECTION:waka-->
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=es9-dev&theme=github_dark" alt="Profile Details" />
+</p>
 
-<!--
-**es9-dev/es9-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=es9-dev&theme=github_dark" alt="Stats Card" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=es9-dev&theme=github_dark&utcOffset=-7" alt="Productive Time" />
+</p>
