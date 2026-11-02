@@ -8,7 +8,7 @@
 <table align="center">
 <tr>
     <td>
-        Architecting <b>Dew</b>, an engine for desktop customization built in <b>Rust</b> that provides a <b>Luau</b> runtime for developers.
+        Building <b>Dew</b>, an engine for desktop customization written in <b>Rust</b> with a <b>Luau</b> runtime for developers.
     </td>
 </tr>
 <tr>
